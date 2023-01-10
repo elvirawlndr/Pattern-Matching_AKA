@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1673328811 source:c:\vira\kuliiiah\semester 3\struktur data\aka\aka\main.cpp
+	"aka.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1673327998 c:\vira\kuliiiah\semester 3\struktur data\aka\aka\aka.h
+	<iostream>
+	<chrono>
+
+1673328811 source:c:\vira\kuliiiah\semester 3\struktur data\aka\aka\aka.cpp
+	"aka.h"
+
